@@ -4,7 +4,7 @@ syntax = "proto3";
 
 package blog;
 
-option go_package = "../../go_grpc_server";
+option go_package = "go_grpc_server";
 
 message Blog {
     string id = 1;

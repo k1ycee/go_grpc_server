@@ -1,4 +1,4 @@
-module example.com/mod
+module go_grpc_server
 
 go 1.20
 
